@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yiyun Huang"
-  avatar           : /images/profile.jpg
+  avatar           : "profile.jpg"
   bio              : "Lab Manager at <a style='color: black;' href='http://doglab.yale.edu'>Canine Cognition Center at Yale</a>"
   location         : "New Haven, CT"
   employer         :
@@ -122,7 +122,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
