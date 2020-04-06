@@ -312,3 +312,5 @@ compress_html:
 
 # theme: minimal-mistakes-jekyll
 # minimal_mistakes_skin: "air"
+
+theme: jekyll-theme-minimal
